@@ -1,2 +1,7 @@
-# RobEmbarKey
-Projet de robotique embarquée: niveau a LED
+## Introduction
+Auteurs : Ludovic CAUDRON, Jordan NOWAK et Jeremy BESSAC
+Objectif : Réaliser un niveau à bulle avec l'accéléromètre de la carte STM32F3 et le cercle de LED
+
+	# Composition du dépot
+	-doc : contient les ressources utilisées pour le projet
+	-src : contient les fichiers sources pour le projet
